@@ -3,11 +3,6 @@
 
 I’m Rahal, a passionate self-taught developer with experience in Java, JavaScript, Go, React, MySQL and more. I’ve been working professionally in backend engineering and web development since 2018. I am enthusiastic about solving problems and outside of work, my goal is to increase diversity in technology and help the next generation get their start.
 
-
-🏢 Previously worked as Software Engineer at Epic Lanka 
-⚙️ Love working with: .java, .js, .go, .bal, .jsx, .xml, .json, .yml
-😄 Passionate about accessibility and committed to a application that works for everyone
-
 #### I’m currently working in WSO2 based in Colombo, Sri Lanka.
 
 - 😎 Open to contracting opportunities if the project sounds cool.
