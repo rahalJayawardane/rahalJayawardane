@@ -12,6 +12,27 @@ I’m Rahal, a passionate self-taught developer with experience in Java, JavaScr
 - ⚙️ Love working with: `.java`, `.js`, `.go`, `.bal`, `.jsx`, `.xml`, `.json`, `.yml`
 - 😄 Passionate about accessibility and committed to applications that works for everyone
 
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahalJayawardane&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahalJayawardane&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<!--
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahalJayawardane&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahalJayawardane&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    -->
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rahalJayawardane&column=-1)](https://github.com/rahalJayawardane/github-profile-trophy)
 
 <!--
