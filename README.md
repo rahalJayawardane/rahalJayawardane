@@ -12,6 +12,7 @@ I’m Rahal, a passionate self-taught developer with experience in Java, JavaScr
 - ⚙️ Love working with: `.java`, `.js`, `.go`, `.bal`, `.jsx`, `.xml`, `.json`, `.yml`
 - 😄 Passionate about accessibility and committed to applications that works for everyone
 
+https://github-profile-trophy.vercel.app/?username=rahalJayawardane&theme=monokai&column=-1
 
 <!--
 **rahalJayawardane/rahalJayawardane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
