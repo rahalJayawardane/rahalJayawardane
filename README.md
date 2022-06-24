@@ -5,7 +5,7 @@ I’m Rahal, a passionate self-taught developer with experience in Java, JavaScr
 
 #### I’m currently working at WSO2 based in Colombo, Sri Lanka.
 
-![](https://komarev.com/ghpvc/?username=rahalJayawardane)
+![](https://komarev.com/ghpvc/?username=rahalJayawardane&style=for-the-badge)
 
 - 😎 Open to contracting opportunities if the project sounds cool.
 - 🏢 Previously worked as Software Engineer at **Epic Lanka** 
