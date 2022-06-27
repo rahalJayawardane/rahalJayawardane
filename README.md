@@ -15,11 +15,11 @@ I’m Rahal, a passionate self-taught developer with experience in Java, JavaScr
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahalJayawardane&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/rahalJayawardane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahaljayawardane&layout=compact&hide=css,scss,html&theme=tokyonight&&langs_count=5&exclude_repo=TrainMate_Web,Cricket_AdminPanel,MCR" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahalJayawardane&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/rahalJayawardane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahalJayawardane&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahal's GitHub Stats" />
 </a>
 
 <!--
