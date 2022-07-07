@@ -36,9 +36,9 @@ I’m Rahal, a passionate self-taught developer with experience in Java, JavaScr
 
 <hr>
 <center>
-  
+  <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=rahalJayawardane&column=-1)](https://github.com/rahalJayawardane/github-profile-trophy)
-
+ -->
 </center>
 
 
